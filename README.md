@@ -34,5 +34,10 @@ To run the game locally, simply clone the repository and open the `index.html` f
 
 ```bash
 git clone https://github.com/hamaza7867/galaxy_game.git
-cd galaxy-defender
+cd galaxy_game
+# If you are on macOS:
 open index.html
+# If you are on Windows:
+# start index.html
+# If you are on Linux:
+# xdg-open index.html
